@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Wendy(Di, Wu), a student from Hunan University, majoring in Econ.
+I'm Wendy(Di, Wu), an Econ student from Hunan University. I am going to persue my master degree in University of Bristol in next fall.
 <!--
 **WendyWu0705/WendyWu0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
