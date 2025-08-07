@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Wendy(Di, Wu). I am currently a junior Economics student at Hunan University, and I will be pursuing a Master's degree in Financial Technology at the University of Bristol next year.
+My name is Wendy(Di, Wu). I will pursue a Master's degree in Financial Technology with Data Science at the University of Bristol this fall.
 <!--
 **WendyWu0705/WendyWu0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --
