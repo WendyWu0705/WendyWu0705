@@ -1,0 +1,13 @@
+05/11/2025
+
+I’m planning to start writing an e-diary from today and update it regularly on my GitHub! If you enjoy my code or my diary entries, please feel free to follow me.
+
+In today’s SDPA class, our lecturer taught us how to manage code with Git, including setting up local and remote repositories, and connecting them together. With this method, GitHub becomes super easy to use and incredibly helpful. Learning this new skill has become my biggest motivation to start this long-term, continuous e-diary project.
+
+Apart from the e-diary, I have a few other plans as well. Let me introduce the main one first! I’ll upload my code and short introductions to my coursework projects. I believe this will make me more disciplined and encourage me to work harder (though I’m not sure if that counts as self-discipline 😄). As a FinTech student, I have a lot of programming-related coursework and projects. GitHub, as a cloud-based file management system, makes it easier for me to handle different versions of my work, free up local storage, and expand my social network — since most of my repositories will be public and accessible to everyone. Hopefully, I can connect with people who share similar interests. Fingers crossed! 🤞
+
+Besides, I’m eager to share my thoughts and feelings — both my happiness and worries — to help others get to know me better, to clear my mind, to improve my English, and to relieve stress and mental pressure. That’s the main reason I’m starting this e-diary.
+
+One last note: the technical content will be placed in a different repository. This one will mainly serve as a personal reflection journal.
+
+Thank you all for reading! 💙
