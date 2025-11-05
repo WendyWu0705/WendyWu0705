@@ -1,5 +1,7 @@
-## Hi there 👋
-My name is Wendy(Di, Wu). I will pursue a Master's degree in Financial Technology with Data Science at the University of Bristol this fall.
+# Hi there 👋
+My name is Wendy and I’m a postgraduate student at the University of Bristol, majoring in Financial Technology with Data Science.
+
+My interests center on algorithms and data-driven decision-making in the financial sector. I’m eager to leverage my interdisciplinary background in finance, statistics, and programming to contribute to innovative, data-informed financial solutions.
 <!--
 **WendyWu0705/WendyWu0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --
